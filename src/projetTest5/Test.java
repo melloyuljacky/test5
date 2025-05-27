@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("coucou projet 5");
 		System.out.println("coucou projet 5 bis");
 
+		System.out.println("coucou projet 5 ter");
+
 	}
 
 }
